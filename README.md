@@ -6,4 +6,4 @@ Schmorgoofol is life, schmorgoofol is kind, schmorgoofol is all
 
 enjoy
 
-![schmorgoofol](schmorgoofol.png "schmorgoofol")
+![schmorgoofol](highdefinitionrenderingoftheschmorgoofol.jpg "schmorgoofol")
